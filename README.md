@@ -69,4 +69,3 @@ As a last resort, try flashing the `settings_reset` firmware; this will force-cl
 
 - [ZMK's troubleshooting page](https://zmk.dev/docs/troubleshooting)
 - Ask the ZMK experts in [ZMK's Discord](https://zmk.dev/community/discord/invite)
-- Stop by [the CBKBD Discord](https://www.cbkbd.com/discord)
